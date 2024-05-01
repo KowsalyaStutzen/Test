@@ -1,0 +1,7 @@
+1.0.0
+Date : 16-04-2024
+Type : Development
+Details :
+    1) First Commit
+    2) Login, Logout, Authentication
+-----------------------------------------------------------------------
